@@ -1,0 +1,1100 @@
+[
+    {
+        "fecha": "2026-03-03",
+        "nombre": "Vivian Caterin Rodriguez Verano",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-04",
+        "nombre": "Angie Lizeth Cubides Neira",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-04",
+        "nombre": "Norbey Alejandro Duarte Ramirez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-04",
+        "nombre": "Cesar Alejandro Sanchez Jaimes",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-05",
+        "nombre": "William Santiago Abril Esguerra",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-05",
+        "nombre": "Angie Natalia Borda Soler",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-05",
+        "nombre": "Sindy Karen Huertas Ávila",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-05",
+        "nombre": "Cristian Camilo Ayala Morales",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-05",
+        "nombre": "Julian Andres Ossa Bohorquez",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-05",
+        "nombre": "Santiago Gil Diaz",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Hector Elian Lacera Vega",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Mauricio David Valencia Marquez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Maria Alejandra Bejarano Tumay",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Karen Sofia Parra Gaspar",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Julieth Tatiana Castellanos Castro",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Ximena Perez Hernandez",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-06",
+        "nombre": "Jhonnatan Andres Garcia Prieto",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Maria Daniela Sarta Sanchez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Jana Milena Lopez Buitrago",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Alba Yohana Moreno Martin",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Dayana Isabel Ojito Ortiz",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Suleimy Tatiana Malaver Niño",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-11",
+        "nombre": "Vivian Caterin Rodriguez Verano",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-11",
+        "nombre": "Diego Alejandro Sanchez Fonseca",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-11",
+        "nombre": "Norbey Alejandro Duarte Ramirez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Angie Lizeth Cubides Neira",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Angie Natalia Borda Soler",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "William Santiago Abril Esguerra",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-13",
+        "nombre": "Hector Elian Lacera Vega",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-13",
+        "nombre": "Maria Alejandra Bejarano Tumay",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-13",
+        "nombre": "Mauricio David Valencia Marquez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Steven Mateo Aroca Garzon",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Juan Diego Vargas Portillo",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Santiago Gil Diaz",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Gabriela Saavedra Latorre",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Sonia Luz Mila Restrepo Almeida",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Sandra Milena Pérez Avila",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Amilcar Yesid Judex Robayo",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Andres Felipe Romero Moreno",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-09",
+        "nombre": "Katherine Marulanda Bernal",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Jerry Arturo Hernandez Sanchez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Ximena Perez Hernandez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-10",
+        "nombre": "Jonathan Deivis Parra Ariza",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-11",
+        "nombre": "Laura Valentina Hernandez Manrique",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-11",
+        "nombre": "Isabel Cristina Velasquez Perez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-11",
+        "nombre": "Sindy Karen Huertas Ávila",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Julieth Tatiana Castellanos Castro",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Lina Maria Peña Gordillo",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-12",
+        "nombre": "Laura Yineth Torres Moncada",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-13",
+        "nombre": "Cristian Camilo Ayala Morales",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-13",
+        "nombre": "Katherine Marulanda Bernal",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-13",
+        "nombre": "Veimar Camilo Bolaños Bernal",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Dayana Isabel Ojito Ortiz",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Maria Daniela Sarta Sanchez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Suleimy Tatiana Malaver Niño",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Rosa Yessenia Jimenez Lara",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Alba Yohana Moreno Martin",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Jana Milena Lopez Buitrago",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Norbey Alejandro Duarte Ramirez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Vivian Caterin Rodriguez Verano",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Diego Alejandro Sanchez Fonseca",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "William Santiago Abril Esguerra",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Angie Natalia Borda Soler",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Angie Lizeth Cubides Neira",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Maria Alejandra Bejarano Tumay",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Mauricio David Valencia Marquez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Hector Elian Lacera Vega",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Ivonne Milena Valbuena Torres",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "David Santiago Tinjaca Avila",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Cesar Alejandro Sanchez Jaimes",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Jhonnatan Andres Garcia Prieto",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Juan Diego Vargas Portillo",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Steven Mateo Aroca Garzon",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Gabriela Saavedra Latorre",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Sandra Milena Pérez Avila",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Santiago Gil Diaz",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Sonia Luz Mila Restrepo Almeida",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Karime Maireth Maestre Sánchez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Karen Sofia Parra Gaspar",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Jonathan Deivis Parra Ariza",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-16",
+        "nombre": "Melani Chanel Mora Varela",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Jesus Alberto Bello Julio",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Lina Maria Peña Gordillo",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Sindy Karen Huertas Ávila",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-17",
+        "nombre": "Ximena Perez Hernandez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Andres Felipe Romero Moreno",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Nury Lorena Mora Murcia",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Katherine Marulanda Bernal",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-18",
+        "nombre": "Veimar Camilo Bolaños Bernal",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Jonathan Deivis Parra Ariza",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Cristian Camilo Ayala Morales",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Isabel Cristina Velasquez Perez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-19",
+        "nombre": "Laura Yineth Torres Moncada",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Julieth Tatiana Castellanos Castro",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Jerry Arturo Hernandez Sanchez",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-20",
+        "nombre": "Karime Maireth Maestre Sánchez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Suleimy Tatiana Malaver Niño",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Dayana Isabel Ojito Ortiz",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Maria Daniela Sarta Sanchez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Norbey Alejandro Duarte Ramirez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Alba Yohana Moreno Martin",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Jana Milena Lopez Buitrago",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Ivonne Milena Valbuena Torres",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "David Santiago Tinjaca Avila",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Cesar Alejandro Sanchez Jaimes",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Sonia Luz Mila Restrepo Almeida",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Diego Alejandro Sanchez Fonseca",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Karime Maireth Maestre Sánchez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Jonathan Deivis Parra Ariza",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-24",
+        "nombre": "Melani Chanel Mora Varela",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Laura Valentina Hernandez Manrique",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Isabel Cristina Velasquez Perez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-25",
+        "nombre": "Sindy Karen Huertas Ávila",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Rosa Yessenia Jimenez Lara",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Vivian Caterin Rodriguez Verano",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Angie Lizeth Cubides Neira",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "William Santiago Abril Esguerra",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Angie Natalia Borda Soler",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Lina Alejandra lopez Contreras",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Wendy Yolany Barreto Garcia",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Sebastian Prada Velasquez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Tania Jasbleidy Sanchez Alejo",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Laura Andrea Murillo Naranjo",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Karol xiomara Quevedo jimenez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Juan Jose Gomez Gonzalez",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Diego Fernando Rodriguez Garcia",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-26",
+        "nombre": "Jhonnatan Andres Garcia Prieto",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Maria Alejandra Bejarano Tumay",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Hector Elian Lacera Vega",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Mauricio David Valencia Marquez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Diego Alejandro Sanchez Fonseca",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Maria Daniela Sarta Sanchez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Laura Vanessa Torres Saenz",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Yuly Andrea Espinosa Reyes",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Micheel Sanyaira Usuga Medina",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Adriana Maria Ruiz Niño",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Karen Sofia Parra Gaspar",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Jesus Alberto Bello Julio",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Steven Mateo Aroca Garzon",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Juan Diego Vargas Portillo",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-27",
+        "nombre": "Gabriela Saavedra Latorre",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Dayana Isabel Ojito Ortiz",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Suleimy Tatiana Malaver Niño",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Jana Milena Lopez Buitrago",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Alba Yohana Moreno Martin",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Norbey Alejandro Duarte Ramirez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Nury Lorena Mora Murcia",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Ximena Perez Hernandez",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Andres Felipe Romero Moreno",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Veimar Camilo Bolaños Bernal",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Katherine Marulanda Bernal",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Laura Yineth Torres Moncada",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Sandra Milena Pérez Avila",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "Santiago Gil Diaz",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-30",
+        "nombre": "David Santiago Tinjaca Avila",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Rosa Yessenia Jimenez Lara",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "William Santiago Abril Esguerra",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Vivian Caterin Rodriguez Verano",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Angie Lizeth Cubides Neira",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Angie Natalia Borda Soler",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Cristian Camilo Ayala Morales",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Julieth Tatiana Castellanos Castro",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Jerry Arturo Hernandez Sanchez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Melani Chanel Mora Varela",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Karime Maireth Maestre Sánchez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Jonathan Deivis Parra Ariza",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Ivonne Milena Valbuena Torres",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Sonia Luz Mila Restrepo Almeida",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-03-31",
+        "nombre": "Cesar Alejandro Sanchez Jaimes",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Diego Alejandro Sanchez Fonseca",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Maria Daniela Sarta Sanchez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Hector Elian Lacera Vega",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Mauricio David Valencia Marquez",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Maria Alejandra Bejarano Tumay",
+        "rol": "Efectivo",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Isabel Cristina Velasquez Perez",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Sindy Karen Huertas Ávila",
+        "rol": "Recogen",
+        "bbva": true
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Laura Valentina Hernandez Manrique",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Sebastian Prada Velasquez",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Wendy Yolany Barreto Garcia",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Laura Andrea Murillo Naranjo",
+        "rol": "Recogen",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Juan Jose Gomez Gonzalez",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Diego Fernando Rodriguez Garcia",
+        "rol": "Cheques",
+        "bbva": false
+    },
+    {
+        "fecha": "2026-04-01",
+        "nombre": "Jhonnatan Andres Garcia Prieto",
+        "rol": "Cheques",
+        "bbva": false
+    }
+]
